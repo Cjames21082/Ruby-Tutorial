@@ -1,5 +1,7 @@
 Note: Project started in 2012
+
 Link to Sample Project:
+-----------------------
 https://peaceful-crag-4741.herokuapp.com/signin
 
 [*Ruby on Rails Tutorial: Learn Rails by Example*](http://railstutorial.org/)
